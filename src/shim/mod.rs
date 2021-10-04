@@ -1,3 +1,2 @@
-mod proxy;
 pub mod cache;
-
+pub mod proxy;
